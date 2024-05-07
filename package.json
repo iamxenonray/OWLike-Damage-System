@@ -1,0 +1,16 @@
+{
+    "name": "com.iamxenonray.owlikedamagesystem",
+    "version": "0.1.0",
+    "displayName": "OWLike Damage System",
+    "description": "A health and damage system based on Overwatch.",
+    "license": "MIT",
+   "keywords": [
+      "health",
+      "damage",
+      "system"
+    ],
+    "author": {
+      "name": "iamxenonray",
+      "url": "https://github.com/iamxenonray"
+    }
+  }
